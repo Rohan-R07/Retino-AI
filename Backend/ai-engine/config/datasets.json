@@ -1,0 +1,29 @@
+{
+  "aptos": {
+    "enabled": true,
+    "root": "data/raw/aptos",
+    "labels": "train.csv",
+    "images": "train_images"
+  },
+  "idrid": {
+    "enabled": true,
+    "root": "data/raw/idrid",
+    "grading_labels": "Disease Grading/2. Groundtruths/a. IDRiD_Disease Grading_Training Labels.csv",
+    "images": "Disease Grading/1. Original Images/a. Training Set",
+    "lesion_masks": "Segmentation/2. All Segmentation Groundtruths/a. Training Set"
+  },
+  "drive": {
+    "enabled": true,
+    "root": "data/raw/drive",
+    "images": "training/images",
+    "vessel_masks": "training/1st_manual",
+    "fov_masks": "training/mask"
+  },
+  "messidor2": {
+    "enabled": false,
+    "optional": true,
+    "root": "data/raw/messidor2",
+    "labels": "",
+    "images": ""
+  }
+}

@@ -1,0 +1,4077 @@
+[
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\e4b0df29b96f.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\b5a3ca5c0a80.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\0b00f8a77510.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\idrid\\Disease Grading\\1. Original Images\\a. Training Set\\IDRiD_267.jpg",
+    "grade": 0,
+    "dataset": "IDRiD"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\999ad827ed35.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\ace2281f00c4.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\idrid\\Disease Grading\\1. Original Images\\a. Training Set\\IDRiD_206.jpg",
+    "grade": 0,
+    "dataset": "IDRiD"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\6f460f9968c7.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\51af8a689511.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\idrid\\Disease Grading\\1. Original Images\\a. Training Set\\IDRiD_179.jpg",
+    "grade": 0,
+    "dataset": "IDRiD"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\8be6629a6039.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\4318b6adeb97.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\idrid\\Disease Grading\\1. Original Images\\a. Training Set\\IDRiD_274.jpg",
+    "grade": 0,
+    "dataset": "IDRiD"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\691eeb59b4cb.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\57f5ad4b5b29.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\8ffa608170d3.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\cb68fce07789.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\d7e5fe5245e0.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\525d0dd8dc45.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\bc92a61a1f9c.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\a0e635689259.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\1f9ccda4ddf2.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\2f8d14a7d390.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\idrid\\Disease Grading\\1. Original Images\\a. Training Set\\IDRiD_353.jpg",
+    "grade": 0,
+    "dataset": "IDRiD"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\0afbeeef0ff7.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\436e7a7af761.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\b64e1eef3d63.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\9e99ae6ee7af.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\1509d097b69a.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\f0267c42907c.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\ea6a53e54d0f.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\5b1c4cefeb24.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\851e40a21f81.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\96b5474ae604.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\c25e02b39c01.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\idrid\\Disease Grading\\1. Original Images\\a. Training Set\\IDRiD_276.jpg",
+    "grade": 0,
+    "dataset": "IDRiD"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\266fbefa58fb.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\db52626d450c.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\d2cd47ed2c1d.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\a70d0f12a641.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\be197b663520.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\096436d68d06.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\cb39761f0712.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\1df0431bfa73.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\4c389d033cb0.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\7d94a000c2d0.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\d5ad3362424c.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\9e2a8135f471.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\65dda202653d.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\24f3e70f0419.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\ec363f48867b.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\d6803e467592.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\c5bec7f1e5f3.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\2a4520f1f9a3.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\fdc685055659.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\c57c164bca05.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\58f07741ee3b.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\3b5dffe159b6.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\idrid\\Disease Grading\\1. Original Images\\a. Training Set\\IDRiD_351.jpg",
+    "grade": 0,
+    "dataset": "IDRiD"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\504a69096fcb.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\83d81ba5959c.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\e6a5e4718873.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\7526c59c36d3.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\50f5201fd18a.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\75c180e04f65.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\b10fca20c885.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\5ca73d28f17f.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\35df2bc6ae95.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\e4d3d437b0a8.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\6f689fced922.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\ab03d50bba2f.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\356304d15a5c.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\d6b109c82067.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\fe3b0e50be78.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\c6f5b5b5be41.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\2ef955d6d9ff.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\81371b0c01ad.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\fa0c87bd75ce.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\idrid\\Disease Grading\\1. Original Images\\a. Training Set\\IDRiD_226.jpg",
+    "grade": 0,
+    "dataset": "IDRiD"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\4a96c28f3f07.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\5995321563b7.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\94076a9fb9b5.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\f8d62557ad0c.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\32ed318235b8.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\ffd97f8cd5aa.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\91e82fe4e434.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\4409965eb2a4.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\10f10fd30718.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\acf976efd7ce.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\0a85a1e8f9e9.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\1d29cb2f4296.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\66366a90d1ef.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\idrid\\Disease Grading\\1. Original Images\\a. Training Set\\IDRiD_211.jpg",
+    "grade": 0,
+    "dataset": "IDRiD"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\33b978734eab.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\0551676cc2aa.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\2db0cd3e30da.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\80b5697f2a5e.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\0f364b7d4384.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\e632e38fd2d4.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\789c60cba801.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\946545473380.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\c5a6f432a1ec.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\27f82ada84ac.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\934104859e68.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\af7a36454670.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\be521870a0ea.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\5b3d41626ec5.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\360832d84ce0.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\f58f0b2fd718.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\26d9576e8043.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\721214151233.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\357f02a779d7.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\b963a11638f2.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\idrid\\Disease Grading\\1. Original Images\\a. Training Set\\IDRiD_221.jpg",
+    "grade": 0,
+    "dataset": "IDRiD"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\12ef75375322.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\2408799a09b2.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\d38cf0f4a9af.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\4a1afe4044f4.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\a73d012c4c38.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\41345cec5957.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\d911dd40c63b.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\4eaf2f81819d.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\9a326446c431.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\9122b31414d3.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\bb752b179751.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\906d02fb822d.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\237aa50edc34.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\idrid\\Disease Grading\\1. Original Images\\a. Training Set\\IDRiD_223.jpg",
+    "grade": 0,
+    "dataset": "IDRiD"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\b16dd4483ca5.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\10bf25731c08.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\405085b53d7b.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\15e24b73d4a7.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\5db895d3f1fc.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\7a9f45fdf29b.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\8906c9ed54a2.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\2cdcc910778d.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\7fdb177b8f7d.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\5eb8fb1aad41.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\ab7991df166b.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\idrid\\Disease Grading\\1. Original Images\\a. Training Set\\IDRiD_158.jpg",
+    "grade": 0,
+    "dataset": "IDRiD"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\d93b61dc8f64.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\8bf2d925dc0c.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\f71bea807c96.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\idrid\\Disease Grading\\1. Original Images\\a. Training Set\\IDRiD_386.jpg",
+    "grade": 0,
+    "dataset": "IDRiD"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\24de56d433cd.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\42af7282349b.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\b9519abce0c1.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\39fd8ef3a45c.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\idrid\\Disease Grading\\1. Original Images\\a. Training Set\\IDRiD_381.jpg",
+    "grade": 0,
+    "dataset": "IDRiD"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\d74ccc796517.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\b70e7c26f51e.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\ad20080452de.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\35cd9832fc0a.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\b22cc1bf0b8a.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\65f69234c8a7.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\1f4fb37e0854.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\61c667663f2f.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\cad5b1a82e60.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\dc0f6e5b489b.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\bf6cbccacf39.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\4a4cb731f91a.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\e7578d8dba72.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\c56293f53191.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\5bf6f2958e53.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\a44345b27804.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\2dc647e00ad3.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\04efb1a284cc.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\fa6f3d8bb1d5.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\0a4e1a29ffff.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\29a13e666266.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\7569ac24762e.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\f56ff0440ed1.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\a0adbe677508.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\315c1a0d87fd.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\f9e1c439d4c8.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\idrid\\Disease Grading\\1. Original Images\\a. Training Set\\IDRiD_195.jpg",
+    "grade": 0,
+    "dataset": "IDRiD"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\f3a4751af42e.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\3b2b91590590.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\8c29a76fa08c.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\af6a1508cd95.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\0f6e645466a2.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\3601dac9bed7.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\idrid\\Disease Grading\\1. Original Images\\a. Training Set\\IDRiD_230.jpg",
+    "grade": 0,
+    "dataset": "IDRiD"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\af87d48ffe01.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\9fa02dfb5553.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\a987aa7aac37.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\6df8b7b6e837.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\5511f114e7ee.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\7a06ea127e02.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\97d02a9b94f7.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\276b14f72328.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\idrid\\Disease Grading\\1. Original Images\\a. Training Set\\IDRiD_218.jpg",
+    "grade": 0,
+    "dataset": "IDRiD"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\f0e1201b5c1f.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\12058bbb8299.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\57db4781e7ec.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\ef99c499d665.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\dee1031a76ae.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\5baed382f062.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\b200c23b299b.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\726dff37edc0.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\922586d86cd8.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\388279491b5d.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\9be71d6d7e59.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\b74de20d73de.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\1b398c0494d1.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\d7a01fca9838.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\aeab0a63bcaf.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\af5a0bc4e1fa.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\aec51513cf45.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\4eabad7948cf.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\4d1e7def7624.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\93421787f520.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\d02b79fc3200.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\060e00d1e2ab.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\aaaadb174012.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\4826d10030b3.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\f71aca5a7dc3.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\58af2c054ced.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\13d411c85ffd.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\6bb30ec3231a.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\191cf5668f33.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\1e8c31e29dd3.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\c90c6b94cf40.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\658ad9f09f5d.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\idrid\\Disease Grading\\1. Original Images\\a. Training Set\\IDRiD_148.jpg",
+    "grade": 0,
+    "dataset": "IDRiD"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\d91635f380b4.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\08bef347f40d.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\4403538fb50f.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\cd48cfab4e44.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\8660e1864665.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\idrid\\Disease Grading\\1. Original Images\\a. Training Set\\IDRiD_250.jpg",
+    "grade": 0,
+    "dataset": "IDRiD"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\94145d1f42cf.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\77b7b71ebcc3.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\a02dfd67a925.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\a2163f0c2af5.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\d2c5fb82fe5f.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\4c53cc97ea13.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\436fa3fd145a.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\e5f73f2855c0.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\207dd0487264.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\59928f999ae7.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\e30a890600e1.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\idrid\\Disease Grading\\1. Original Images\\a. Training Set\\IDRiD_147.jpg",
+    "grade": 0,
+    "dataset": "IDRiD"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\9287e57326d0.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\b7f0bc7d399e.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\idrid\\Disease Grading\\1. Original Images\\a. Training Set\\IDRiD_298.jpg",
+    "grade": 0,
+    "dataset": "IDRiD"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\21037f5c7790.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\6f0e5848d9ce.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\idrid\\Disease Grading\\1. Original Images\\a. Training Set\\IDRiD_176.jpg",
+    "grade": 0,
+    "dataset": "IDRiD"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\0cae727cf119.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\09934421c79e.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\6a2c3f4ef329.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\387138ddf43d.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\dd02d60bef14.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\idrid\\Disease Grading\\1. Original Images\\a. Training Set\\IDRiD_370.jpg",
+    "grade": 0,
+    "dataset": "IDRiD"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\9274e75dc4d5.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\0b64a0a06f9a.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\190a309f2cc5.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\fe06dad6851c.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\780f9daaa24b.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\e16af45285e5.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\93d6d20a5ee3.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\52edbe29d655.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\384e6c915722.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\08037e4490e5.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\e0d229db881a.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\8a3eb86ae4bd.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\5c817060c0ed.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\0c38940e1f80.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\idrid\\Disease Grading\\1. Original Images\\a. Training Set\\IDRiD_202.jpg",
+    "grade": 0,
+    "dataset": "IDRiD"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\c334f8688b77.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\51cd8d2057fa.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\dcc6c0ad5cad.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\3dec415b188a.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\e2c3b037413b.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\74898f372d2b.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\05b1bb2bdb81.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\9ab18a4a957f.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\a5bb85afc6e8.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\86410aa13b3e.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\7214fc7cbe03.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\e66ad813a508.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\b7983cb3f270.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\d7ab5c040294.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\d97911a32918.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\de18071c36e6.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\d9e58e4d8689.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\07f5d7baf907.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\9985375d709f.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\1a19f2ef4472.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\dea7538bb91a.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\493d99f030e2.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\idrid\\Disease Grading\\1. Original Images\\a. Training Set\\IDRiD_213.jpg",
+    "grade": 0,
+    "dataset": "IDRiD"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\54bdcdecd8f3.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\beeca5f14618.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\dec5595e6154.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\c5a0e84e955d.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\8191ae701985.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\d1afdb8cf70d.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\2f7fbdcc9a4b.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\2f81ee5f2926.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\c85b79d70079.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\1cc58b15f466.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\59bd19c1c5bb.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\a94da3d3b5c0.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\4554062fa836.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\8433a032b96c.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\9ce46d400cd6.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\8e76054f0831.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\de2eb5c8aa83.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\d2afca74cbc3.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\bb85097857fa.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\878e356c8fc9.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\d39752cb6e57.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\42b9c1977681.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\dee31065f8fe.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\13d014ccd136.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\b72a86d61959.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\369229040a34.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\bff51afc76d4.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\dfea19863428.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\8e7981855125.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\b8e20c076b03.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\37c523296d42.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\1db0393cdbc1.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\e79e10907295.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\4145dcb25053.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\ec6f1797a25a.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\328d141ed3aa.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\e087bd4b88f2.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\291f581d365e.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\c6d4e4a3bd4c.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\0abf0c485f66.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\83df53d58f28.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\4e4a6224a04e.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\idrid\\Disease Grading\\1. Original Images\\a. Training Set\\IDRiD_229.jpg",
+    "grade": 0,
+    "dataset": "IDRiD"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\6dc0281f11e3.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\41960d5f58c2.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\d27ac9e54901.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\478fc46eaa49.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\86d58f850a0c.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\7c6594b50690.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\e3b47ed5b511.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\idrid\\Disease Grading\\1. Original Images\\a. Training Set\\IDRiD_199.jpg",
+    "grade": 0,
+    "dataset": "IDRiD"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\628b581aa905.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\beb00fa6e7c9.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\4a5a6efc0bef.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\f952ad2e4356.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\da9262d9f5d9.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\e529c5757d64.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\e9ce5bf645ab.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\c1819db0aece.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\idrid\\Disease Grading\\1. Original Images\\a. Training Set\\IDRiD_249.jpg",
+    "grade": 0,
+    "dataset": "IDRiD"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\c373b73a80c8.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\5b47043942f4.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\7f6690fa390a.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\28751f290ba3.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\8650d32f4a9e.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\252305189b3a.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\a26f50218b84.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\61a62b1dcc36.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\d516f77d4516.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\99c6a123ed6a.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\8f06ca4642bd.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\c21eb81de9fc.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\529906ff9dfa.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\91b7a4179ecf.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\f90f8931a9bc.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\f7116e7b2f4e.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\0b2ea8f268cf.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\5889a0c75cac.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\28503940d10b.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\08ee569d4721.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\8aa3c4681542.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\3cd9713c0ecb.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\5b32ece9c627.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\33d72035c27a.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\bac1744955c2.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\d865997a6280.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\idrid\\Disease Grading\\1. Original Images\\a. Training Set\\IDRiD_146.jpg",
+    "grade": 0,
+    "dataset": "IDRiD"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\6c30dd481717.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\f994a3b07935.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\7e77b61e1639.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\50916d67bb51.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\dcf109df1a2b.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\5056fa7d505f.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\5ba156a35ff2.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\52ddde91a349.png",
+    "grade": 0,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\0684311afdfc.png",
+    "grade": 1,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\1c0cf251b426.png",
+    "grade": 1,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\172df1330a60.png",
+    "grade": 1,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\cc9270f06b65.png",
+    "grade": 1,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\b71428739d4e.png",
+    "grade": 1,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\idrid\\Disease Grading\\1. Original Images\\a. Training Set\\IDRiD_265.jpg",
+    "grade": 1,
+    "dataset": "IDRiD"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\25e9fd872182.png",
+    "grade": 1,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\b56340f472d2.png",
+    "grade": 1,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\a3d2a0c4cd17.png",
+    "grade": 1,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\4e0656629d02.png",
+    "grade": 1,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\b22354b5f94b.png",
+    "grade": 1,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\613bacb35c05.png",
+    "grade": 1,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\3461dc601cc2.png",
+    "grade": 1,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\8273fdb4405e.png",
+    "grade": 1,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\bb11db08584a.png",
+    "grade": 1,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\b6a0e348a01e.png",
+    "grade": 1,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\3f73c91b7e32.png",
+    "grade": 1,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\0a3202889f4d.png",
+    "grade": 1,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\523b3f0fc646.png",
+    "grade": 1,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\9782c0489eca.png",
+    "grade": 1,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\0024cdab0c1e.png",
+    "grade": 1,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\7ccb267fd394.png",
+    "grade": 1,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\fe674c2f73f5.png",
+    "grade": 1,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\7347f5133a6a.png",
+    "grade": 1,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\35aa7f5c2ec0.png",
+    "grade": 1,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\5548a7961a3e.png",
+    "grade": 1,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\531b39880c32.png",
+    "grade": 1,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\a8c54e2a4b79.png",
+    "grade": 1,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\a3ad6c2db6f1.png",
+    "grade": 1,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\idrid\\Disease Grading\\1. Original Images\\a. Training Set\\IDRiD_279.jpg",
+    "grade": 1,
+    "dataset": "IDRiD"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\idrid\\Disease Grading\\1. Original Images\\a. Training Set\\IDRiD_266.jpg",
+    "grade": 1,
+    "dataset": "IDRiD"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\1df3e03a8f5f.png",
+    "grade": 1,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\93be637084a2.png",
+    "grade": 1,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\31cb39681f6a.png",
+    "grade": 1,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\bb9a3d835a94.png",
+    "grade": 1,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\358d2224de73.png",
+    "grade": 1,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\eba3acc42197.png",
+    "grade": 1,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\107aea0d9289.png",
+    "grade": 1,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\4cae247d9909.png",
+    "grade": 1,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\66cd9c28e636.png",
+    "grade": 1,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\587146a55885.png",
+    "grade": 1,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\d3de0d313d61.png",
+    "grade": 1,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\3dbc90c7ee7d.png",
+    "grade": 1,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\eed4afc8ec83.png",
+    "grade": 1,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\ca1036496659.png",
+    "grade": 1,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\1a03a7970337.png",
+    "grade": 1,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\274f5029189b.png",
+    "grade": 1,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\idrid\\Disease Grading\\1. Original Images\\a. Training Set\\IDRiD_021.jpg",
+    "grade": 1,
+    "dataset": "IDRiD"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\5b72ff04333d.png",
+    "grade": 1,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\4f7755e74a9e.png",
+    "grade": 1,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\4ecd1fdd1435.png",
+    "grade": 1,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\fea14b3d44b0.png",
+    "grade": 1,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\278aa860dffd.png",
+    "grade": 1,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\0f495d87656a.png",
+    "grade": 1,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\13ab8db8c700.png",
+    "grade": 1,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\36677b70b1ef.png",
+    "grade": 1,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\61bbe8db6f3a.png",
+    "grade": 1,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\d0d59ed675b5.png",
+    "grade": 1,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\33105f9b3a04.png",
+    "grade": 1,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\12e3f5f2cb17.png",
+    "grade": 1,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\7335a2d43ada.png",
+    "grade": 1,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\d801c0a66738.png",
+    "grade": 1,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\d6e26fe51dce.png",
+    "grade": 1,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\a95858e052d6.png",
+    "grade": 1,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\6c6efb6b1358.png",
+    "grade": 1,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\578109578b46.png",
+    "grade": 1,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\03e25101e8e8.png",
+    "grade": 1,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\1d674e2e32e0.png",
+    "grade": 1,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\4e6071b73120.png",
+    "grade": 1,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\9ed666e982cd.png",
+    "grade": 1,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\fecf4c5ae84b.png",
+    "grade": 1,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\idrid\\Disease Grading\\1. Original Images\\a. Training Set\\IDRiD_203.jpg",
+    "grade": 1,
+    "dataset": "IDRiD"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\4da2961e62fe.png",
+    "grade": 1,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\idrid\\Disease Grading\\1. Original Images\\a. Training Set\\IDRiD_291.jpg",
+    "grade": 1,
+    "dataset": "IDRiD"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\01b3aed3ed4c.png",
+    "grade": 1,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\0d310aba6373.png",
+    "grade": 1,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\4029d70e9d8a.png",
+    "grade": 1,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\e2a233493b90.png",
+    "grade": 1,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\c52bb7343387.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\e2161692a0b4.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\6363b360aefb.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\7455e2b5fc57.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\b95d4dd8e5e2.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\1c4d87baaffc.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\8446826853d0.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\0fffa73e2402.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\idrid\\Disease Grading\\1. Original Images\\a. Training Set\\IDRiD_050.jpg",
+    "grade": 2,
+    "dataset": "IDRiD"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\f3cd489acbee.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\be21d8b60e2a.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\17188c13e635.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\9c5dd3612f0c.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\bfaa0080ab61.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\ba2624883599.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\e5d56f4f359b.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\b033ab4fb723.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\cca626a0e19a.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\b9127e38d9b9.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\6733544ae7a6.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\1a1b4b2450ca.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\44f4ae58990e.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\f3b6b7ca1eb1.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\2532613a584a.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\2608e1dac5b1.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\0c76fd494af6.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\4189d4e631ec.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\44e951e45dca.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\42b93b574f23.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\19113e5f45ec.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\1c6d119c3d70.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\6d454444f17c.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\d990a3f0cbdb.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\86722fcd802c.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\e6a58edc5b42.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\06024377d573.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\idrid\\Disease Grading\\1. Original Images\\a. Training Set\\IDRiD_322.jpg",
+    "grade": 2,
+    "dataset": "IDRiD"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\idrid\\Disease Grading\\1. Original Images\\a. Training Set\\IDRiD_124.jpg",
+    "grade": 2,
+    "dataset": "IDRiD"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\70f5caf5f305.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\9b95d6203406.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\435d900fa7b2.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\5cf9127f251a.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\df841a0440d8.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\295fdc964f6e.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\d95959798b57.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\idrid\\Disease Grading\\1. Original Images\\a. Training Set\\IDRiD_374.jpg",
+    "grade": 2,
+    "dataset": "IDRiD"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\17eb5d4ad740.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\8ab8d9b3ce3f.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\idrid\\Disease Grading\\1. Original Images\\a. Training Set\\IDRiD_094.jpg",
+    "grade": 2,
+    "dataset": "IDRiD"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\b2748ac28fc1.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\527bea76116c.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\7b8c78b41c0d.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\2bd4d4fbed5c.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\5327f88a1919.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\c8905b8d5cf1.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\135575dc57c9.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\ff0740cb484a.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\idrid\\Disease Grading\\1. Original Images\\a. Training Set\\IDRiD_183.jpg",
+    "grade": 2,
+    "dataset": "IDRiD"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\2d870833c0c9.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\8860c7b11530.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\d952dbfb0fe4.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\idrid\\Disease Grading\\1. Original Images\\a. Training Set\\IDRiD_064.jpg",
+    "grade": 2,
+    "dataset": "IDRiD"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\0efc93ec838b.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\681c3c115684.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\idrid\\Disease Grading\\1. Original Images\\a. Training Set\\IDRiD_413.jpg",
+    "grade": 2,
+    "dataset": "IDRiD"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\idrid\\Disease Grading\\1. Original Images\\a. Training Set\\IDRiD_016.jpg",
+    "grade": 2,
+    "dataset": "IDRiD"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\4ce74e5eb51d.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\8cb6b5b2f19c.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\6d3d1fe6c32a.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\97bf61736b86.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\84e8c62165b5.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\4dbce359d0e1.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\4b422b48d0d4.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\5e52c9fe676f.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\9f4132bd6ed6.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\5173d54fc214.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\3c53198519f7.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\a8eb35b3bcd2.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\idrid\\Disease Grading\\1. Original Images\\a. Training Set\\IDRiD_058.jpg",
+    "grade": 2,
+    "dataset": "IDRiD"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\1f0e223b8055.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\46923eea9a4e.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\08c17a2d95b7.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\34723fae6475.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\idrid\\Disease Grading\\1. Original Images\\a. Training Set\\IDRiD_188.jpg",
+    "grade": 2,
+    "dataset": "IDRiD"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\aa5ce75edcf5.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\e663c6627a95.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\b6304c545f95.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\3128eb593012.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\28f93cad89c5.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\46c1548d730e.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\4ef0b485a7da.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\bf1b7e21e774.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\4ed31cc07366.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\222d0ac042b4.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\8aab201c0691.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\599b89048034.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\3fd7df6099e3.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\4ee1ad981a6d.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\fcc55ae641ae.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\547b37da9223.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\ab50123abadb.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\026dcd9af143.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\55092c0071eb.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\523ff163211b.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\aa9cfe639ef1.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\2d552318eb07.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\77baa08a1345.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\a2d349f567a6.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\d144144a2f3f.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\54bbe3da103e.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\idrid\\Disease Grading\\1. Original Images\\a. Training Set\\IDRiD_185.jpg",
+    "grade": 2,
+    "dataset": "IDRiD"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\8ff2733f6aef.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\a6c9e96a10d7.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\idrid\\Disease Grading\\1. Original Images\\a. Training Set\\IDRiD_037.jpg",
+    "grade": 2,
+    "dataset": "IDRiD"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\a804cef3e51f.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\b927a9238434.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\c80f79579fed.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\bdb98063fe84.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\0dbaa09a458c.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\1bea04b2bb2d.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\10eefba568dd.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\310c27067ac0.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\bcdc8db5423b.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\c613db1cab27.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\a45d77edf8d9.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\45c39ab9e797.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\67c03349bb31.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\idrid\\Disease Grading\\1. Original Images\\a. Training Set\\IDRiD_122.jpg",
+    "grade": 2,
+    "dataset": "IDRiD"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\e3a7671f787b.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\8acffaf1f4b9.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\5b301a6d1ac7.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\86baef833ae0.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\308f7fce6f0d.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\d6283ded6aea.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\62e6f814c8f5.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\1594ca6c30d3.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\7877be80901c.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\6ba5ed791444.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\e7fc93ac5b6d.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\62ab144d5cee.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\465c618f7b23.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\7e6e90a93aa5.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\9b32e8ef0ca0.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\66bae1ba227f.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\144a1a426137.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\ffcf7b45f213.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\2131aa3a1e6f.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\38e111cac46f.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\9785805af1b8.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\3d3e288d490e.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\4b1001050f1d.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\2241b7e90782.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\6e092b306fe1.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\453d553b0a94.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\c7c0470bcf87.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\217dad18a5ed.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\idrid\\Disease Grading\\1. Original Images\\a. Training Set\\IDRiD_047.jpg",
+    "grade": 2,
+    "dataset": "IDRiD"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\77f69c7ff324.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\932181b93b2f.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\e868c3da340b.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\c561bcd519e9.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\686ed1dbae20.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\891392c9683c.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\453a1e2754b2.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\7c2f820a6425.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\idrid\\Disease Grading\\1. Original Images\\a. Training Set\\IDRiD_237.jpg",
+    "grade": 2,
+    "dataset": "IDRiD"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\840527bc6628.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\98104c8c67eb.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\d473f6fafba0.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\idrid\\Disease Grading\\1. Original Images\\a. Training Set\\IDRiD_131.jpg",
+    "grade": 2,
+    "dataset": "IDRiD"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\dee687c6e88a.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\5486da4273d7.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\86fbac86ed3e.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\14515b8f19b6.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\3c311c9109b0.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\idrid\\Disease Grading\\1. Original Images\\a. Training Set\\IDRiD_245.jpg",
+    "grade": 2,
+    "dataset": "IDRiD"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\ea9e0fb6fb0b.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\e96099b961b4.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\6dcde47060f9.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\b82d5f1f1145.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\0ac436400db4.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\08752092140d.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\d67374d3fa2a.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\207a580de0ea.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\0fcfc6301f3d.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\d6228d951958.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\48fda42bd5d4.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\8000a6b97a84.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\9568eb7e9c08.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\51d574513bcb.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\e12d41e7b221.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\00e4ddff966a.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\b468ebf5cb11.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\85fce24084da.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\idrid\\Disease Grading\\1. Original Images\\a. Training Set\\IDRiD_284.jpg",
+    "grade": 2,
+    "dataset": "IDRiD"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\d10d315f123f.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\c0202976c670.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\cbc2e57447c2.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\48afe8c47454.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\e387311a840e.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\855f0a5442b6.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\10ecc5292ab1.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\a87f53bc984a.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\a04fb36db784.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\1177d583c807.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\42b08dca9b2f.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\idrid\\Disease Grading\\1. Original Images\\a. Training Set\\IDRiD_375.jpg",
+    "grade": 2,
+    "dataset": "IDRiD"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\9f5a8665cf2e.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\196e6a186452.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\27b68863349f.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\8d7bb0649a02.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\59f3f70abddd.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\4289af3afbd2.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\idrid\\Disease Grading\\1. Original Images\\a. Training Set\\IDRiD_134.jpg",
+    "grade": 2,
+    "dataset": "IDRiD"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\7247a2c97f71.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\3402124408ea.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\57469423a012.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\ceaa5803d780.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\69591ebb198d.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\524f240e0c90.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\idrid\\Disease Grading\\1. Original Images\\a. Training Set\\IDRiD_405.jpg",
+    "grade": 2,
+    "dataset": "IDRiD"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\idrid\\Disease Grading\\1. Original Images\\a. Training Set\\IDRiD_363.jpg",
+    "grade": 2,
+    "dataset": "IDRiD"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\1269ab57c2e6.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\e17507a4a1f5.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\12a82fc7d73e.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\8a67f1efa315.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\6987804eb464.png",
+    "grade": 2,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\71a39c660432.png",
+    "grade": 3,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\3f49f8d100e9.png",
+    "grade": 3,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\f576e45d1da2.png",
+    "grade": 3,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\idrid\\Disease Grading\\1. Original Images\\a. Training Set\\IDRiD_308.jpg",
+    "grade": 3,
+    "dataset": "IDRiD"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\e76a9cbb2a8c.png",
+    "grade": 3,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\idrid\\Disease Grading\\1. Original Images\\a. Training Set\\IDRiD_112.jpg",
+    "grade": 3,
+    "dataset": "IDRiD"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\4df6a81b476e.png",
+    "grade": 3,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\idrid\\Disease Grading\\1. Original Images\\a. Training Set\\IDRiD_372.jpg",
+    "grade": 3,
+    "dataset": "IDRiD"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\idrid\\Disease Grading\\1. Original Images\\a. Training Set\\IDRiD_004.jpg",
+    "grade": 3,
+    "dataset": "IDRiD"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\9bafbbd152d2.png",
+    "grade": 3,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\idrid\\Disease Grading\\1. Original Images\\a. Training Set\\IDRiD_001.jpg",
+    "grade": 3,
+    "dataset": "IDRiD"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\a4b8de38eac1.png",
+    "grade": 3,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\idrid\\Disease Grading\\1. Original Images\\a. Training Set\\IDRiD_368.jpg",
+    "grade": 3,
+    "dataset": "IDRiD"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\9a94e0316ee3.png",
+    "grade": 3,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\e93394175a19.png",
+    "grade": 3,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\86d6808f0609.png",
+    "grade": 3,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\c5ba9e455d5e.png",
+    "grade": 3,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\b7e0f95353f2.png",
+    "grade": 3,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\idrid\\Disease Grading\\1. Original Images\\a. Training Set\\IDRiD_309.jpg",
+    "grade": 3,
+    "dataset": "IDRiD"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\0cb14014117d.png",
+    "grade": 3,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\237c078d00fc.png",
+    "grade": 3,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\3e3a3955b9c5.png",
+    "grade": 3,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\8a9bef2fbd4e.png",
+    "grade": 3,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\80e7cc0a0649.png",
+    "grade": 3,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\idrid\\Disease Grading\\1. Original Images\\a. Training Set\\IDRiD_088.jpg",
+    "grade": 3,
+    "dataset": "IDRiD"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\2b48daf24be0.png",
+    "grade": 3,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\idrid\\Disease Grading\\1. Original Images\\a. Training Set\\IDRiD_023.jpg",
+    "grade": 3,
+    "dataset": "IDRiD"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\91b6ebaa3678.png",
+    "grade": 3,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\9f37c98b8187.png",
+    "grade": 3,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\idrid\\Disease Grading\\1. Original Images\\a. Training Set\\IDRiD_115.jpg",
+    "grade": 3,
+    "dataset": "IDRiD"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\07a0e34c8d20.png",
+    "grade": 3,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\687759336b0d.png",
+    "grade": 3,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\9878db94d9f3.png",
+    "grade": 3,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\6253f23229b1.png",
+    "grade": 3,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\idrid\\Disease Grading\\1. Original Images\\a. Training Set\\IDRiD_066.jpg",
+    "grade": 3,
+    "dataset": "IDRiD"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\dd3dad6ca78f.png",
+    "grade": 3,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\9bf060db8376.png",
+    "grade": 3,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\191a711852bd.png",
+    "grade": 3,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\c3cd0200df79.png",
+    "grade": 3,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\9c52b87d01f1.png",
+    "grade": 3,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\913490237ad4.png",
+    "grade": 3,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\bf8092e4001d.png",
+    "grade": 3,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\d3e884109b45.png",
+    "grade": 3,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\idrid\\Disease Grading\\1. Original Images\\a. Training Set\\IDRiD_357.jpg",
+    "grade": 3,
+    "dataset": "IDRiD"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\15bed5adde74.png",
+    "grade": 3,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\51da6aebba8f.png",
+    "grade": 3,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\idrid\\Disease Grading\\1. Original Images\\a. Training Set\\IDRiD_321.jpg",
+    "grade": 3,
+    "dataset": "IDRiD"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\7b29e3783919.png",
+    "grade": 3,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\2f42e20db938.png",
+    "grade": 3,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\b310bd564329.png",
+    "grade": 3,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\6efa36d59ada.png",
+    "grade": 3,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\idrid\\Disease Grading\\1. Original Images\\a. Training Set\\IDRiD_341.jpg",
+    "grade": 3,
+    "dataset": "IDRiD"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\15f440753916.png",
+    "grade": 3,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\a76b69e443ce.png",
+    "grade": 4,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\857230f64a2e.png",
+    "grade": 4,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\c3d12a23f451.png",
+    "grade": 4,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\b96b518596b3.png",
+    "grade": 4,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\idrid\\Disease Grading\\1. Original Images\\a. Training Set\\IDRiD_086.jpg",
+    "grade": 4,
+    "dataset": "IDRiD"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\idrid\\Disease Grading\\1. Original Images\\a. Training Set\\IDRiD_239.jpg",
+    "grade": 4,
+    "dataset": "IDRiD"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\idrid\\Disease Grading\\1. Original Images\\a. Training Set\\IDRiD_089.jpg",
+    "grade": 4,
+    "dataset": "IDRiD"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\e3ec668f6fad.png",
+    "grade": 4,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\64fedbf97473.png",
+    "grade": 4,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\bfefa7344e7d.png",
+    "grade": 4,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\idrid\\Disease Grading\\1. Original Images\\a. Training Set\\IDRiD_033.jpg",
+    "grade": 4,
+    "dataset": "IDRiD"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\60f15dd68d30.png",
+    "grade": 4,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\247e98aba610.png",
+    "grade": 4,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\518e880613de.png",
+    "grade": 4,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\idrid\\Disease Grading\\1. Original Images\\a. Training Set\\IDRiD_014.jpg",
+    "grade": 4,
+    "dataset": "IDRiD"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\3810040096cb.png",
+    "grade": 4,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\61f403fdb434.png",
+    "grade": 4,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\c1896142a20a.png",
+    "grade": 4,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\idrid\\Disease Grading\\1. Original Images\\a. Training Set\\IDRiD_272.jpg",
+    "grade": 4,
+    "dataset": "IDRiD"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\408ea9d5e082.png",
+    "grade": 4,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\72d98188648f.png",
+    "grade": 4,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\19ef4d292196.png",
+    "grade": 4,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\e9ab8413e771.png",
+    "grade": 4,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\080ee76c958c.png",
+    "grade": 4,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\80964d8e0863.png",
+    "grade": 4,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\9859e2a6cc24.png",
+    "grade": 4,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\61e301bd3c25.png",
+    "grade": 4,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\9cc6b1f9bcbd.png",
+    "grade": 4,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\7cc4b7aabe04.png",
+    "grade": 4,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\8596a24a14bd.png",
+    "grade": 4,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\312694ea8e6a.png",
+    "grade": 4,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\3ccf96c1dd6d.png",
+    "grade": 4,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\bfdee9be1f1d.png",
+    "grade": 4,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\664b1f9a2087.png",
+    "grade": 4,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\222f3ee3a1e8.png",
+    "grade": 4,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\66375b3c64db.png",
+    "grade": 4,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\f8cf7ed8ef00.png",
+    "grade": 4,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\a6d45de20e4d.png",
+    "grade": 4,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\0318598cfd16.png",
+    "grade": 4,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\ba08cee68c71.png",
+    "grade": 4,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\f1dc26c4bfa3.png",
+    "grade": 4,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\idrid\\Disease Grading\\1. Original Images\\a. Training Set\\IDRiD_289.jpg",
+    "grade": 4,
+    "dataset": "IDRiD"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\idrid\\Disease Grading\\1. Original Images\\a. Training Set\\IDRiD_390.jpg",
+    "grade": 4,
+    "dataset": "IDRiD"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\4a3da369b227.png",
+    "grade": 4,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\02685f13cefd.png",
+    "grade": 4,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\5d74f98d62be.png",
+    "grade": 4,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\cbd0870aa933.png",
+    "grade": 4,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\4a7dc013e802.png",
+    "grade": 4,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\262ad704319c.png",
+    "grade": 4,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\a81b06f50612.png",
+    "grade": 4,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\44ecf3f4efa5.png",
+    "grade": 4,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\d271d3a2b552.png",
+    "grade": 4,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\idrid\\Disease Grading\\1. Original Images\\a. Training Set\\IDRiD_010.jpg",
+    "grade": 4,
+    "dataset": "IDRiD"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\1fd5d860d4d7.png",
+    "grade": 4,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\2fde69f20585.png",
+    "grade": 4,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\aeed1f251ceb.png",
+    "grade": 4,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\6cd606dc52e9.png",
+    "grade": 4,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\8eeac97f02f0.png",
+    "grade": 4,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\8fd7ad26e691.png",
+    "grade": 4,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\e037643244b7.png",
+    "grade": 4,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\8af6a4e5396f.png",
+    "grade": 4,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\64bad93fde3f.png",
+    "grade": 4,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\idrid\\Disease Grading\\1. Original Images\\a. Training Set\\IDRiD_119.jpg",
+    "grade": 4,
+    "dataset": "IDRiD"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\2628305cbb29.png",
+    "grade": 4,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\idrid\\Disease Grading\\1. Original Images\\a. Training Set\\IDRiD_096.jpg",
+    "grade": 4,
+    "dataset": "IDRiD"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\8db2ce991101.png",
+    "grade": 4,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\3ee4841936ef.png",
+    "grade": 4,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\4462fba1d2a1.png",
+    "grade": 4,
+    "dataset": "APTOS"
+  },
+  {
+    "path": "C:\\Users\\Rohan R\\Documents\\Hackathons\\Retino AI\\Backend\\ai-engine\\data\\raw\\aptos\\train_images\\0e0fc1d9810c.png",
+    "grade": 4,
+    "dataset": "APTOS"
+  }
+]

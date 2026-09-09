@@ -1,0 +1,26 @@
+{
+  "project_name": "Retino-AI",
+  "problem_id": "SIH26038",
+  "title": "Explainable AI for Diabetic Retinopathy Screening in Rural India",
+  "version": "0.1.0",
+  "image_parameters": {
+    "target_height": 512,
+    "target_width": 512,
+    "working_channel": "green",
+    "supported_formats": [".jpg", ".jpeg", ".png", ".tif", ".tiff", ".dcm"]
+  },
+  "clinical_grading": {
+    "scale": [
+      {"grade": 0, "label": "No Apparent DR", "referable": false},
+      {"grade": 1, "label": "Mild NPDR", "referable": false},
+      {"grade": 2, "label": "Moderate NPDR", "referable": true},
+      {"grade": 3, "label": "Severe NPDR", "referable": true},
+      {"grade": 4, "label": "Proliferative DR", "referable": true}
+    ],
+    "referral_threshold_grade": 2
+  },
+  "quality_thresholds": {
+    "min_sharpness_score": 0.35,
+    "min_illumination_entropy": 4.5
+  }
+}

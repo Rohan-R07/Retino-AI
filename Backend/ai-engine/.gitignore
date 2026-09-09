@@ -1,0 +1,74 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyd
+
+# Python virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# MATLAB temporary files, autosaves, and caches
+*.asv
+*.m~
+*.slxc
+slprj/
+*.mex*
+*.mat.bak
+
+# Large ML model binaries and saved weights
+matlab/models/saved/*.mat
+*.mat
+!matlab/models/saved/.gitkeep
+!matlab/models/saved/README.md
+!models/saved/dr_random_forest.mat
+!matlab/models/saved/dr_random_forest.mat
+
+# Datasets - raw images and downloaded archives
+data/raw/*
+!data/raw/.gitkeep
+!data/raw/README.md
+!data/raw/*/.gitkeep
+!data/raw/*/README.md
+
+# Generated preprocessed images and features
+data/processed/*
+!data/processed/.gitkeep
+!data/processed/README.md
+!data/processed/*/.gitkeep
+!data/processed/*/README.md
+
+# Data split metadata generated locally
+data/splits/*
+!data/splits/.gitkeep
+!data/splits/README.md
+!data/splits/*/.gitkeep
+!data/splits/*/README.md
+
+# Generated outputs & visualizations
+outputs/*
+!outputs/.gitkeep
+!outputs/README.md
+!outputs/*/.gitkeep
+!outputs/*/README.md
+!outputs/features/
+!outputs/features/*
+
+# Sample data
+sample_data/*
+!sample_data/.gitkeep
+!sample_data/README.md
+
+# Environment variables & secrets
+.env
+.env.*
+!.env.example
+
+# IDEs and OS metadata
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/

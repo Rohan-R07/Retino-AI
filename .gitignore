@@ -41,5 +41,34 @@ desktop.ini
 *.pkl
 *.ckpt
 
+# AI Engine Datasets (Raw high-resolution images are kept locally)
+Backend/ai-engine/data/raw/*
+!Backend/ai-engine/data/raw/.gitkeep
+!Backend/ai-engine/data/raw/README.md
+!Backend/ai-engine/data/raw/*/.gitkeep
+!Backend/ai-engine/data/raw/*/README.md
+
+# Processed images and outputs
+Backend/ai-engine/data/processed/*
+!Backend/ai-engine/data/processed/.gitkeep
+!Backend/ai-engine/data/processed/README.md
+
+Backend/ai-engine/data/splits/*
+!Backend/ai-engine/data/splits/.gitkeep
+!Backend/ai-engine/data/splits/README.md
+
+# Retain prototype model artifacts (< 1 MB)
+!Backend/ai-engine/models/saved/dr_random_forest.mat
+!Backend/ai-engine/matlab/models/saved/dr_random_forest.mat
+
+# MATLAB temporary files and caches
+*.asv
+*.m~
+*.slxc
+slprj/
+*.mex*
+*.mat.bak
+
 # Logs
 *.log
+

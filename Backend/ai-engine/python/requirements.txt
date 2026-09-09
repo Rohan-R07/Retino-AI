@@ -1,0 +1,7 @@
+# Retino-AI Engine: Lightweight Python Utility Dependencies
+# Note: AI/ML processing is handled in MATLAB.
+# External AI APIs (OpenAI, Gemini, Hugging Face, LangChain) and web frameworks (FastAPI) are NOT included here.
+
+# Lightweight numerical and file format utilities (future phases)
+numpy>=1.24.0
+scipy>=1.10.0

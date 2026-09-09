@@ -1,0 +1,81 @@
+{
+  "feature_names": [
+    "mean_red",
+    "mean_green",
+    "mean_blue",
+    "std_red",
+    "std_green",
+    "std_blue",
+    "green_mean",
+    "green_contrast",
+    "glcm_contrast",
+    "glcm_correlation",
+    "glcm_energy",
+    "glcm_homogeneity"
+  ],
+  "feature_ordering": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12
+  ],
+  "class_labels": [
+    "0 - No DR",
+    "1 - Mild NPDR",
+    "2 - Moderate NPDR",
+    "3 - Severe NPDR",
+    "4 - Proliferative DR"
+  ],
+  "train_count": 3260,
+  "test_count": 815,
+  "accuracy": 0.6638036809815951,
+  "referral_accuracy": 0.8245398773006135,
+  "referral_sensitivity": 0.7650429799426934,
+  "referral_specificity": 0.869098712446352,
+  "confusion_matrix": [
+    [
+      357,
+      7,
+      19,
+      3,
+      2
+    ],
+    [
+      9,
+      32,
+      29,
+      5,
+      3
+    ],
+    [
+      23,
+      32,
+      128,
+      22,
+      22
+    ],
+    [
+      5,
+      3,
+      20,
+      15,
+      10
+    ],
+    [
+      7,
+      12,
+      34,
+      7,
+      9
+    ]
+  ],
+  "timestamp": "2026-09-09 22:30:46"
+}
