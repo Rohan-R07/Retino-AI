@@ -1,0 +1,45 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# C extensions
+*.pyd
+
+# Virtual Environments
+venv/
+.venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+Backend/venv/
+
+# Environment Variables & Secrets
+.env
+.env.*
+!.env.example
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Machine Learning / AI Model Artifacts (Large Files)
+*.h5
+*.pt
+*.pth
+*.onnx
+*.bin
+*.pkl
+*.ckpt
+
+# Logs
+*.log
