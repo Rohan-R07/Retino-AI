@@ -39,8 +39,10 @@ All files are strictly isolated within `Backend/api/`:
 Backend/api/
 ├── README.md                      # Complete subsystem documentation (this file)
 ├── requirements.txt               # Backend Python dependencies
+├── .env.example                   # Environment configuration template
 ├── run.py                         # FastAPI server runner script (port 8000)
 ├── run_tests.py                   # Automated test runner script
+├── check_db.py                    # Database diagnostic and inspection utility
 ├── retino_ai.db                   # SQLite database (auto-created on startup)
 ├── .gitignore                     # Git ignore rules for DB, caches, and test artifacts
 ├── app/
@@ -277,7 +279,44 @@ The integration contract between the API and the AI engine conforms strictly to 
 
 ---
 
-## 5. How to Run the Server
+## 5. Environment Configuration & Database Management
+
+### 5.1 Environment Variables (`.env`)
+The application automatically reads configuration from `Backend/api/.env` (or the project root). A complete template is provided in `Backend/api/.env.example`:
+
+```bash
+# Database Configuration (SQLite default stored strictly in Backend/api/)
+DATABASE_FILE=retino_ai.db
+DATABASE_URL=sqlite:///retino_ai.db
+
+# Storage Directory for Uploaded Retinal Fundus Images
+UPLOAD_DIR=uploads
+
+# Maximum Upload File Size in Bytes (Default: 15 MB)
+MAX_IMAGE_SIZE_BYTES=15728640
+
+# Allowed CORS Origins (comma-separated list for React/Vite frontend)
+CORS_ORIGINS=http://localhost:3000,http://localhost:5173,http://127.0.0.1:3000,http://127.0.0.1:5173
+
+# AI Diagnostic Engine Provider ("mock" for development/tests, "real" for MATLAB engine)
+AI_ENGINE_PROVIDER=mock
+```
+
+To switch to a cloud database (e.g. **PostgreSQL**, **Supabase**, or **Neon**), simply replace `DATABASE_URL` in `.env`:
+```bash
+DATABASE_URL=postgresql://user:password@db.supabase.co:5432/postgres
+```
+
+### 5.2 Database Health & Diagnostic Tool
+Verify connection health, table status, and record counts at any time:
+
+```bash
+python3 Backend/api/check_db.py
+```
+
+---
+
+## 6. How to Run the Server
 
 From the repository root or from `Backend/api/`:
 
@@ -299,7 +338,7 @@ Once running:
 
 ---
 
-## 6. How to Run the Tests
+## 7. How to Run the Tests
 
 Execute the automated test suite with either command:
 
@@ -315,7 +354,7 @@ All tests execute against an isolated in-memory SQLite database and test client.
 
 ---
 
-## 7. MATLAB AI Engine Integration Guide
+## 8. MATLAB AI Engine Integration Guide
 
 The real AI Engine is MATLAB-based and located under `Backend/ai-engine/`:
 - **Inference Entry Point**: `Backend/ai-engine/matlab/inference/predict_dr.m`

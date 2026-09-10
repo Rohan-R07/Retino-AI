@@ -5,12 +5,55 @@ from typing import List
 # Base directory for the API layer: Backend/api
 BASE_DIR = Path(__file__).resolve().parent.parent
 
+# Automatically load environment variables from .env if present
+def _load_env_file():
+    try:
+        from dotenv import load_dotenv
+        for candidate in (BASE_DIR / ".env", BASE_DIR.parent.parent / ".env"):
+            if candidate.is_file():
+                load_dotenv(candidate, override=False)
+        return
+    except ImportError:
+        pass
+
+    # Built-in fallback loader if python-dotenv is not installed
+    for candidate in (BASE_DIR / ".env", BASE_DIR.parent.parent / ".env"):
+        if candidate.is_file():
+            try:
+                with open(candidate, "r", encoding="utf-8") as f:
+                    for line in f:
+                        line = line.strip()
+                        if not line or line.startswith("#") or "=" not in line:
+                            continue
+                        key, val = line.split("=", 1)
+                        key = key.strip()
+                        val = val.strip().strip("\"'")
+                        if key and key not in os.environ:
+                            os.environ[key] = val
+            except Exception:
+                pass
+
+_load_env_file()
+
 # Database configuration (SQLite Prototype stored strictly in Backend/api/)
-DATABASE_FILE = os.getenv("DATABASE_FILE", str(BASE_DIR / "retino_ai.db"))
-DATABASE_URL = os.getenv("DATABASE_URL", f"sqlite:///{DATABASE_FILE}")
+_raw_db_file = os.getenv("DATABASE_FILE", str(BASE_DIR / "retino_ai.db"))
+_db_path = Path(_raw_db_file)
+if not _db_path.is_absolute():
+    _db_path = BASE_DIR / _db_path
+DATABASE_FILE = str(_db_path)
+
+_raw_db_url = os.getenv("DATABASE_URL")
+if not _raw_db_url or _raw_db_url in (f"sqlite:///{_raw_db_file}", "sqlite:///retino_ai.db"):
+    DATABASE_URL = f"sqlite:///{DATABASE_FILE}"
+else:
+    DATABASE_URL = _raw_db_url
 
 # Upload directory for fundus retinal images
-UPLOAD_DIR = Path(os.getenv("UPLOAD_DIR", str(BASE_DIR / "uploads")))
+_raw_upload_dir = os.getenv("UPLOAD_DIR", str(BASE_DIR / "uploads"))
+_upload_path = Path(_raw_upload_dir)
+if not _upload_path.is_absolute():
+    _upload_path = BASE_DIR / _upload_path
+UPLOAD_DIR = _upload_path
 UPLOAD_DIR.mkdir(parents=True, exist_ok=True)
 
 # Image upload restrictions
