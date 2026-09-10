@@ -1,0 +1,24 @@
+# SQLite database prototype file
+*.db
+*.db-journal
+
+# Pytest cache
+.pytest_cache/
+
+# Uploaded retinal images (keep folder tracked via .gitkeep)
+uploads/*
+!uploads/.gitkeep
+
+# Local dependency symlinks for IDE language server resolution
+fastapi
+starlette
+pydantic
+pydantic_core
+annotated_types
+typing_extensions.py
+sqlalchemy
+anyio
+sniffio
+idna
+multipart
+python_multipart
