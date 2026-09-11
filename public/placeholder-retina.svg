@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 300" fill="none">
+  <circle cx="150" cy="150" r="140" fill="#1a1a2e" />
+  <circle cx="150" cy="150" r="130" fill="#16213e" />
+  <circle cx="150" cy="150" r="90" fill="#0f3460" />
+  <circle cx="150" cy="150" r="40" fill="#1a1a2e" />
+  <circle cx="150" cy="150" r="30" fill="#0d0d1a" />
+  <!-- Optic disc -->
+  <circle cx="200" cy="140" r="22" fill="#e8c36a" opacity="0.7" />
+  <!-- Blood vessels simplified -->
+  <path d="M200 140 Q180 130 150 150 Q120 170 90 160" stroke="#8b0000" stroke-width="2.5" fill="none" opacity="0.6"/>
+  <path d="M200 140 Q185 160 160 170 Q130 180 100 175" stroke="#8b0000" stroke-width="2" fill="none" opacity="0.5"/>
+  <path d="M200 140 Q190 120 170 110 Q140 100 110 110" stroke="#8b0000" stroke-width="2" fill="none" opacity="0.5"/>
+  <path d="M200 140 Q210 160 210 180 Q210 200 200 210" stroke="#8b0000" stroke-width="1.5" fill="none" opacity="0.4"/>
+  <path d="M200 140 Q215 130 220 110 Q225 90 215 75" stroke="#8b0000" stroke-width="1.5" fill="none" opacity="0.4"/>
+  <!-- Macula -->
+  <circle cx="140" cy="155" r="15" fill="#0a0a1a" opacity="0.5" />
+</svg>
